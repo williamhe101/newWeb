@@ -120,7 +120,8 @@ params:
     intro: "Hi, my name is"
     title: "William."
     subtitle: "Website I made for fun"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "I am an undergrad student at the University of Texas at Dallas, where my primary interests include hardware design, keeping up to date with new technology, and IoT products. 
+I lead the Logistics and Events committee, which is a team dedicated to curating a student-driven, virtual Hackathon sponsored by IEEE. I am also currently learning more about 5G networks through Qualcomm and serving as a student ambassador for Microsoft. Aside from all this, I particularly enjoy having a great time with friends and reading/learning about psychology."
     image: /images/hero.svg
     bottomImage:
       enable: true
