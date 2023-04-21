@@ -250,14 +250,14 @@ I lead the Logistics and Events committee, which is a team dedicated to curating
           # url: "https://example.org"
         # date: "2009 - 2013"
         # GPA: "3.9 out of 5.0"
-        # content: |-
-          # I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - # [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - # Face mask detection using a single convolutional neural network.
+        #  content: |- 
+        #    I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+        #   -  [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+        #   -  Face mask detection using a single convolutional neural network.
 
-          # Extracurricular Activities
-            - # Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - # Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        #    Extracurricular Activities
+        #     -  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        #     -  Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
           enable: false
           name: "My academic record"
