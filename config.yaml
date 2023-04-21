@@ -177,10 +177,10 @@ I lead the Logistics and Events committee, which is a team dedicated to curating
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "Software Developer"
-        company: "Amazon"
+      - job: "Hardware Infrastructure Solutions Group Intern"
+        company: "Dell Technologies"
         companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        date: "June 2022 - August 2022"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -193,10 +193,11 @@ I lead the Logistics and Events committee, which is a team dedicated to curating
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
+      - job: "RF Hardware Engineer Assistant"
+        company: "Murata Electronics"
         companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "August 2021 - May 2022
+"
         info:
           enable: false
         featuredLink:
@@ -208,10 +209,10 @@ I lead the Logistics and Events committee, which is a team dedicated to curating
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Geek Squad Consultation Agent"
+        company: "BestBuy"
         companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        date: "July 2021 - August 2021"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -221,11 +222,11 @@ I lead the Logistics and Events committee, which is a team dedicated to curating
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - # job: "Product Designer"
+        # company: "Google"
+        # companyUrl: "https://example.com"
+        # date: "Feb 2016 - Mar 2017"
+        # content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
